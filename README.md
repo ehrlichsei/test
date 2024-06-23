@@ -4,6 +4,7 @@
 python3 -m src.tests.test_calculator
 
 ```
+attention!! the ending without .py
 
 ## run testcases
 ```
